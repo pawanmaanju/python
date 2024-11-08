@@ -11,5 +11,5 @@ for i in range(100):
     # Check if the current value of i is 34
     if i == 34:
         continue  # Skip the rest of the code in this iteration
-    # Print the current value of i
+    # Print the current value of i 
     print(i)

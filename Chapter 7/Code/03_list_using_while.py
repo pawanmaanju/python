@@ -5,7 +5,7 @@ l = ["Pawan", "Ramesh", "Mahesh", "Suresh", 1, False]
 i = 0
 
 # Loop through the list until the end
-while i < len(l):
+while i < len(l):   # length = 7
     # Print the current element in the list
     print(l[i])
     

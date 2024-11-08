@@ -1,11 +1,10 @@
-import pyttsx3
-import objc
+import pyttsx3  # Import the text-to-speech library
 
+# Initialize the pyttsx3 engine
+engine = pyttsx3.init()
 
-
-
-# Assuming you've installed py3-tts: pip install py3-tts
-engine = pyttsx3.init()  # No need to specify `driverName`
-
+# Use the engine to say a phrase
 engine.say("Hello, world!")
+
+# Run the speech engine to process the voice output
 engine.runAndWait()

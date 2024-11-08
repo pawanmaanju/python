@@ -9,8 +9,29 @@ while a < b + 1:
     # Print the current value of a
     print(a)
     # Increment the value of a by 1
-    a += 1
+    a += 1 		# i = i+1 
 
+						#Output
+"""
+Enter the Start number : 1 
+Enter the End number : 6
+
+1     
+2
+3
+4
+5
+6
+"""
+# 					proccess
+"""
+condition 1 : if a(1)<6 then execute the code
+condition 2 : then print(a)
+condition 3 : after the print go to first line of loop 
+condition 4 : then a = a+1 increase the value of a 
+condition 5 : new vlaue of a is 2
+condition 6 : if a(2)<6 then execute the code
+"""
 
 #      Read More
 """
@@ -39,3 +60,7 @@ The output will be:
 9
 10
 """
+
+
+
+

@@ -1,7 +1,7 @@
 # For loop that iterates 4 times but does nothing in each iteration
 for i in range(4):
-    pass  # The pass statement is a null operation; nothing happens when it executes
-
+    pass    # The pass statement is a null operation; nothing happens when it executes
+            # without pass, the program will throw an error
 # While loop that prints the value of i and increments it until i is no longer less than 45
 while i < 45:
     print(i)  # Print the current value of i
