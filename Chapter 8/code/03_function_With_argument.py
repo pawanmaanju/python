@@ -1,8 +1,8 @@
 # Function to greet the user based on their name
-def greet_user(user_name, ending):
+def greet_user(user_name, ending): # function With Argment {def greet_user Is Function & ending is argument }
     print("Good Day, " + user_name)
     print(ending)
-    return "Done"
+    return "Done" 
 
 
 # Get user input for the name and greet them
@@ -57,3 +57,8 @@ Your Name Is: Pawan Bishnoi
 Your Age Is: 20
 Your Number Is: 9876543210
 """
+
+
+# if you not understand then you can watch this video
+
+# https://youtu.be/UrsmFxEIp5k?t=17454

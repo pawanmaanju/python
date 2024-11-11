@@ -22,3 +22,13 @@ def avg():
 
 # Run the function
 avg()
+
+
+
+
+
+
+
+# if you not understand then you can watch this video
+
+# https://youtu.be/UrsmFxEIp5k?t=17454
